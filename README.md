@@ -82,7 +82,7 @@ Cada visão é representada por um conjunto específico de métricas, fornecendo
 
 ## ✅ Produto Final do Projeto
 
-Desenvolvemos um painel online hospedado na nuvem, acessível a partir de qualquer dispositivo conectado à internet. Você pode acessar o painel através deste link: <iframe title="Projeto1" width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiZDNlMDU0ZjQtZTg0OC00Mjc1LWE1ZGUtOTU3YTJkOGE5YzBiIiwidCI6IjczMzkwNGUwLThiMDgtNGEyZC1iYWUzLTU1ZDQwZWI5ZmZmOSJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>Clique para ver o resultado</a>
+Desenvolvi um painel online hospedado na nuvem, acessível a partir de qualquer dispositivo conectado à internet. Você pode acessar o painel através deste link: <a href="https://app.powerbi.com/view?r=eyJrIjoiZDNlMDU0ZjQtZTg0OC00Mjc1LWE1ZGUtOTU3YTJkOGE5YzBiIiwidCI6IjczMzkwNGUwLThiMDgtNGEyZC1iYWUzLTU1ZDQwZWI5ZmZmOSJ9&pageName=ReportSection" target="_blank">Clique para ver o resultado</a>
 
 ## 📊 Conclusão
 
