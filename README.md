@@ -22,7 +22,9 @@ Demais Visualizações
 - Top 5 Ofensores por Subcategoria
 - Relatório de Lucro por Categoria e Subcategoria
 
-(IMAGEM EM BREVE)
+<img src="img_readme/VisaoProdutos1.png">
+<img src="img_readme/VisaoProdutos2.png">
+<img src="img_readme/VisaoProdutos3.png">
 
 ### 🎯 Visão Metas e Lucros
 
@@ -30,7 +32,7 @@ Demais Visualizações
 - Lucro acumulado mês a mês
 - Metas mês a mês
 
-(IMAGEM EM BREVE)
+<img src="img_readme/VisaoMetasELucros.png">
 
 ### 🤑 Visão Vendedores
 
@@ -39,7 +41,7 @@ Demais Visualizações
 - Relatório Anual Vendedores
 - Total vendido por vendedor
 
-(IMAGEM EM BREVE)
+<img src="img_readme/VisaoVendedores.png">
 
 ## ❗ Premissas do Negócio
 
@@ -80,7 +82,7 @@ Cada visão é representada por um conjunto específico de métricas, fornecendo
 
 ## ✅ Produto Final do Projeto
 
-Desenvolvimento de um painel gerencial (visualização em breve)
+Desenvolvemos um painel online hospedado na nuvem, acessível a partir de qualquer dispositivo conectado à internet. Você pode acessar o painel através deste link: <iframe title="Projeto1" width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiZDNlMDU0ZjQtZTg0OC00Mjc1LWE1ZGUtOTU3YTJkOGE5YzBiIiwidCI6IjczMzkwNGUwLThiMDgtNGEyZC1iYWUzLTU1ZDQwZWI5ZmZmOSJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>Clique para ver o resultado</a>
 
 ## 📊 Conclusão
 
