@@ -1,9 +1,3 @@
-[Projeto Pessoal Utilizando o Banco de Dados Adventure Works, retirado do Kaggle
-https://www.kaggle.com/datasets/algorismus/adventure-works-in-excel-tables
-A manipulação dos dados foi realizada via SQL Server e o Dashboard foi feito com Power BI.
-
-Em breve ReadMe completo do projeto...](https://www.kaggle.com/datasets/algorismus/adventure-works-in-excel-tables)
-
 # Adventure Works
 
 ## 🔎 Problema de Negócio
